@@ -17,8 +17,8 @@
 ## Usage
   Copy schema.js into MySQL Workbench and execute to create tables. Then copy the seed.js file into Workbench and execute to populate tables. Finally, run "node index.js" from Terminal - inside root folder of cloned repo.
 ## Demo
-- link to demo video
-- animated demo gif
+- https://youtu.be/O1TsA92B8aE
+- ![Employee Tracker demo gif](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 ## Contributing
   Feel free to submit pull requests from your branch if you see fit.
 
